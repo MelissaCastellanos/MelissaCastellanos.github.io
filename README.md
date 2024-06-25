@@ -1,15 +1,11 @@
 # Data Scientist
 
 ## Technical Skills
-* Python
-* SQL
-* Alteryx
-* Orange
-* Power BI
+Python, SQL, Alteryx, Orange, Power BI
 
 ## Education
-* M.S., Data Science | Lewis University (May 2025)
-* B.S., Biology | Washington State University (May 2020)
+M.S., Data Science | Lewis University (May 2025)
+B.S., Biology | Washington State University (May 2020)
 
 ## Work Experience
 *This text will be italic*
