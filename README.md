@@ -1,13 +1,13 @@
 # Data Scientist
 
-#Education
+###Education
 Data Science, M.S. 
 Focus in Bioinformatics
 
-#Work Experience
+###Work Experience
 Data Analyst @ 
 -Big Impact Project 1 
 -Big Impact Project 2
 
-#Projects
+###Projects
 -List of Projects
