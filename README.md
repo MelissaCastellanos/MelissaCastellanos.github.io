@@ -1,11 +1,17 @@
-# Markdown Basics
+# Data Scientist
 
-## Headers
-# This is an <h1> tag
-## This is an <h2> tag
-### This is an <h3> tag
+## Technical Skills
+* Python
+* SQL
+* Alteryx
+* Orange
+* Power BI
 
-## Emphasis
+## Education
+* M.S., Data Science | Lewis University (May 2025)
+* B.S., Biology | Washington State University (May 2020)
+
+## Work Experience
 *This text will be italic*
 _This will also be italic_
 
@@ -15,16 +21,16 @@ __This will also be bold__
 You can combine them
 **_bold and italic_** 
 
-## Lists
+## Projects
 
 ### Unordered
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+* Market Basket Analysis
+* Classification
+  * KNN
+  * Decision Tree
 
 ### Ordered
-1. Item 1
+1. Clustering
 2. Item 2
 3. Item 3
    1. Item 3a
