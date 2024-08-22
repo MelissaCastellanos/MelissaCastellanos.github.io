@@ -24,8 +24,8 @@ Lab Specialist | Framatome (Jun. 21 - Jan 23)
 * K-Means Clustering
 * Principle Component Analysis
 * Factor Analysis 
-* Apiori
-* Market Basket Analysis 
+* Apiori - Market Basket Analysis  
+  [Accidental Drug Overdose - Drug Relations](https://github.com/MelissaCastellanos/Apiori-Algorithm-MBA)
 
 ## SQL Server Development Projects 
 * Subqueires
