@@ -1,48 +1,48 @@
-# Data Scientist
+# Data Analyst
 
 ### Technical Skills
-* Languages: Python, SQL, DAX, C++
-* Software: Alteryx, Orange, Power BI
+* Languages: SQL, C++, Python
+* Software: Power BI, SSIS, Jupyter Notebook, Alteryx, Orange
 
 ## Education
 * M.S., Data Science | Lewis University (May 2025)
 * B.S., Biology | Washington State University (May 2020)
 
 ## Work Experience
-*This text will be italic*
-_This will also be italic_
+* Supply Chain Data Analyst | Lamb Weston (Current)
+* Lab Coordinator | Agrinorthwest (Feb. 23 - Apr. 24)
+* Lab Specialist | Framatome (Jun. 21 - Jan 23)
 
-**This text will be bold**
-__This will also be bold__
+# Projects 
+## Supervised Learning Projects
+* Linear Regression
+* Logistic Regression 
+* K-Nearest Neighboors (KNN)
+* Decision Tree
+* Linear Discriminant Analysis
+  
+## Unsupervised Learning Projects 
+* K-Means Clustering
+* Principle Component Analysis
+* Factor Analysis 
+* Apiori
+* Market Basket Analysis 
 
-You can combine them
-**_bold and italic_** 
+## SQL Server Development Projects 
+* Subqueires
+* Common Table Expessions(CTEs)
+* SQL Window Functions
+* ETL Pipline w/ SSIS
 
-## Projects
+## C++ for FUN
+* Inventory Management System 
+* Bank Management System
+* Billing System
 
-### Unordered
-* Market Basket Analysis
-* Classification
-  * KNN
-  * Decision Tree
-
-### Ordered
-1. Clustering
-2. Item 2
-3. Item 3
-   1. Item 3a
-   2. Item 3b
+## Visualizations 
+* Power BI
+* SSIS
+* Other
 
 ## Links
 [Link to Google](http://www.google.com)
-
-## Images
-![GitHub Logo](/images/logo.png)
-
-## Blockquotes
-> We're living the future so
-> the present is our past.
-
-## Inline code
-I think you should use an
-`<addr>` tag here.
