@@ -25,7 +25,7 @@ Lab Specialist | Framatome (Jun. 21 - Jan 23)
 * Principle Component Analysis
 * Factor Analysis 
 * Apiori - Market Basket Analysis  
-  [Accidental Drug Overdose - Drug Relations](https://github.com/MelissaCastellanos/Apiori-Algorithm-MBA)
+  [Accidental Drug Overdose - Drug Relations](https://github.com/MelissaCastellanos/Accidental-Overdose-Apriori-Application)
 
 ## SQL Server Development Projects 
 * Subqueires
