@@ -1,7 +1,4 @@
-# Melissa Castellanos
-## Data Analyst 
-### Portfolio
-
+#  Data Analyst Portfolio
 ## Technical Skills
 **Languages:** SQL, C++, Python  
 **Software:** Power BI, SSIS, Jupyter Notebook, Alteryx, Orange
