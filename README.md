@@ -23,7 +23,8 @@ Lab Specialist | Framatome (Jun. 21 - Jan 23)
 ## Unsupervised Learning Projects 
 * K-Means Clustering
 * Principle Component Analysis
-* Factor Analysis 
+* Factor Analysis
+  [Immigration in Rural Communities - EFA](https://github.com/MelissaCastellanos/Immigration-in-Rural-Communities-EFA)
 * Apiori - Market Basket Analysis  
   [Accidental Drug Overdose - Drug Relations](https://github.com/MelissaCastellanos/Accidental-Overdose-Apriori-Application)
 
