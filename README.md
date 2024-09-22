@@ -30,7 +30,9 @@ Lab Specialist | Framatome (Jun. 21 - Jan 23)
 
 ## SQL Server Development Projects 
 * Subqueires
-* Common Table Expessions(CTEs)
+* Common Table Expessions(CTEs)  
+  [Northwind - Recursive CTE](https://github.com/MelissaCastellanos/Northwind-Recursive-CTE)
+  
 * SQL Window Functions
 * ETL Pipline w/ SSIS
 
