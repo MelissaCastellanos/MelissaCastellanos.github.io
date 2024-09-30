@@ -1,26 +1,13 @@
 # Melissa Castellanos | **Data Analyst** 
-## Technical Skills
-**Languages:** SQL, C++, Python  
-**Software:** Power BI, SSIS, Jupyter Notebook, Alteryx, Orange
-
-## Education
-**M.S., Data Science** | Lewis University (May 2025)  
-**B.S., Biology** | Washington State University (May 2020)
-
-## Work Experience
-Supply Chain Data Analyst | Lamb Weston (Current)  
-Lab Coordinator | Agrinorthwest (Feb. 23 - Apr. 24)  
-Lab Specialist | Framatome (Jun. 21 - Jan 23)
-
 # Projects 
-## Supervised Learning Projects
+## Supervised Learning  
 * Linear Regression
 * Logistic Regression 
 * K-Nearest Neighboors (KNN)
 * Decision Tree
 * Linear Discriminant Analysis
   
-## Unsupervised Learning Projects 
+## Unsupervised Learning  
 * K-Means Clustering
 * Principle Component Analysis
 * Factor Analysis  
@@ -28,15 +15,15 @@ Lab Specialist | Framatome (Jun. 21 - Jan 23)
 * Apiori - Market Basket Analysis  
   [Accidental Drug Overdose - Drug Relations](https://github.com/MelissaCastellanos/Accidental-Overdose-Apriori-Application)
 
-## SQL Server Development Projects 
+## SQL  
+* Window Functions
 * Subqueires
 * Common Table Expessions(CTEs)  
+  [Common Table Expressions - CTE Applications](https://github.com/MelissaCastellanos/Common-Table-Expressions-CTE-Applications)  
   [Northwind - Recursive CTE](https://github.com/MelissaCastellanos/Northwind-Recursive-CTE)
-  
-* SQL Window Functions
 * ETL Pipline w/ SSIS
 
-## C++ for FUN
+## C++  
 * Inventory Management System 
 * Bank Management System
 * Billing System
@@ -46,5 +33,4 @@ Lab Specialist | Framatome (Jun. 21 - Jan 23)
 * SSIS
 * Other
 
-## Links
-[Link to Google](http://www.google.com)
+## [Visit My LinkedIn](https://www.linkedin.com/in/melissa-castellanos-02456a1aa/)
