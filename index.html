@@ -4,11 +4,29 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Melissa's Portfolio</title>
-  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&display=swap" rel="stylesheet">
   <style>
+
+.press-start-2p-regular {
+  font-family: "Press Start 2P", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 12px;
+}
+
+.vt323-regular {
+  font-family: "VT323", monospace;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1.5rem;
+}
+
+
     :root {
-      --font-family: 'Major Mono Display', monospace;
-      
+      --font-family: "VT323", monospace;
+	  
       --color-bg: #d3e9e6;       /* soft teal background */
       --color-text: #2d1f2f;     /* deep plum for main text */
       --color-primary: #6a4c93;  /* purple accent */
@@ -16,7 +34,7 @@
       --color-border: #b8c7c5;   /* muted gray-teal for borders */
       --color-card-bg: rgba(255,255,255,0.7); /* slightly more opaque cards */
     }
-
+	
     * {
       margin: 0; padding: 0; box-sizing: border-box;
       font-family: var(--font-family);
@@ -36,7 +54,7 @@
       position: absolute;
       width: 60px;
       height: 60px;
-      background-image: url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGYzcTJ4emZtMGZyZG1yMzI2NTFhOG5oOTZnODQwdXo3OGU4eXF1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/12PXNbcHW8C9Bm/giphy.gif');
+      background-image: url('https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGkxaGZvc2RuZ2s3M216bWhtdnBpdm84d2t4N3FyandjNTc4Y2x4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JtDyYirrwXV0ivzo51/giphy.gif');
       background-size: contain;
       background-repeat: no-repeat;
       z-index: 10;
@@ -96,14 +114,14 @@
     }
 
     .sidebar h4 {
-      font-size: 1.15rem;
+      font-size: 1.5rem;
       text-align: center;
       margin-bottom: 0.25rem;
       color: var(--color-primary);
     }
 
     .sidebar h6 {
-      font-size: 0.85rem;
+      font-size: 1rem;
       text-align: center;
       margin-bottom: 2rem;
       color: var(--color-secondary);
@@ -227,6 +245,8 @@
       margin-bottom: 1.5rem;
       color: var(--color-primary);
       font-weight: 700;
+	  font-size: 1.5rem;
+	  
     }
 
     .card {
@@ -237,6 +257,7 @@
       margin-bottom: 2rem;
       box-shadow: 0 8px 32px rgba(0,0,0,0.1);
       border: 1px solid var(--color-border);
+	  font-size: 1.5rem
     }
 
     .resume-section {
@@ -245,7 +266,7 @@
 
     .resume-section h3 {
       margin-bottom: 1rem;
-      font-size: 1.3rem;
+      font-size: 1.8rem;
       color: var(--color-primary);
     }
 
@@ -261,6 +282,7 @@
       display: grid;
       gap: 1.5rem;
       grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+	  font-size:1.5rem;
     }
 
     .project {
@@ -274,6 +296,7 @@
       border: 1px solid var(--color-border);
       position: relative;
       overflow: hidden;
+	  font-size: 1.5rem;
     }
 
     .project:hover {
@@ -293,12 +316,13 @@
     .project h4 {
       color: var(--color-primary);
       margin-bottom: 0.5rem;
-      font-size: 1.2rem;
+      font-size: 1.8rem;
     }
 
     .project .summary {
       color: var(--color-secondary);
       font-style: italic;
+	  font-size: 1.5rem;
     }
 
     /* Project details with image on top */
@@ -463,12 +487,13 @@
 
     .interests-grid .card {
       margin-bottom: 0;
+	  font-size: 1.5rem;
     }
 
     .interests-grid h4 {
       color: var(--color-primary);
       margin-bottom: 0.75rem;
-      font-size: 1.1rem;
+      font-size: 1.5rem;
     }
   </style>
 </head>
@@ -503,54 +528,52 @@
 
   <!-- Main -->
   <div class="main">
-    <h3>About Me</h3>
+  
+    <h3 style="font-family: 'Press Start 2P', system-ui; font-size: 24px;">ABOUT ME</h3>
     <header class="card">
-	
-      <p>
-        Hello! I'm Melissa, a Tri-Cities–based data scientist and analyst with a deep curiosity for uncovering patterns and insights in data.<br><br>
-        Storytelling has always been at the heart of who I am. Long before discovering data science, I channeled my creativity into writing short stories and poetry as a way to make sense of the world. When I began coding, I realized I had found a new medium for storytelling, one where data was at the center.<br><br>
-        Today, I'm passionate about using data to craft stories that reveal insights which inspire action, especially around environmental challenges.<br><br>
-        Take a look around to see what I do!
-      </p>
+		<p style="font-size: 2rem;">
+		  Hi, I’m Melissa! <br><br>
+		  This is a space where I keep and share the projects I create on my free time. I love exploring data, uncovering patterns, and turning insights into stories that make sense of complex problems.  
+		  Here, you’ll see my background, the work I’ve done, the ideas I’m exploring, and a bit of my curiosity in action.<br><br>
+		  Feel free to look around and see what I’m up to!
+		</p>
 	  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFiMWV0NWM4aXRqcWlwZGx6ZGZmNXpoZ2JtYXNyczduM3d4eHZiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5xRW2cUKfcyQg/giphy.gif" alt="Description of GIF" class="card-image">
     </header>
     
-	<h3 id="interests">Interests</h3>
+	<h3 id="interests", style="font-family: 'Press Start 2P', system-ui; font-size: 24px;">INTERESTS</h3>
 	<section class="interests-grid">
 	  <div class="card">
 		<img src="images/insights.jpeg" alt="Data-Driven Storytelling" class="card-image">
 		<h4>Data-Driven Storytelling</h4>
-		<p>I enjoy transforming complex datasets into imaginative visuals that 
-		make insights clear and actionable. For me, data science is as much about 
-		communication as it is about analysis.</p>
+		<p>I enjoy taking complex datasets and turning them into clear, creative visuals 
+		that make insights easy to understand and act on. For me, data science is just as much 
+		about communicating stories from data as it is about analyzing it.</p>
 	  </div>
 	  
 	  <div class="card">
 		<img src="images/gis.jpeg" alt="Geospatial Intelligence" class="card-image">
 		<h4>Geospatial Analysis</h4>
-		<p>I like exploring how landscapes change over time and why certain things appear where they do. 
-		Geospatial analysis lets me uncover the stories hidden in these patterns, which always feels like solving a puzzle.</p>
+		<p>Geospatial datasets are some of my favorite to analyze. Their high dimensionality 
+			makes problems complex, while the visualizations they enable are both eye-catching and meaningful.</p>
 	  </div>
 	  
 	  <div class="card">
 		<img src="images/algo.jpeg" alt="Algorithms and Exploration" class="card-image">
 		<h4>Machine Learning Algorithms and Exploration</h4>
-		<p>I'm interested in applying machine learning techniques such as Random Forests, clustering, 
-		and timeseries modeling to uncover hidden patterns in large datasets. Experimenting 
-		with different approaches is part of what keeps my work exciting.</p>
+		<p>My projects focus on applying machine learning techniques to uncover hidden patterns in large datasets. 
+			Exploring different approaches keeps the work engaging and constantly helps me learn.</p>
 	  </div>
 
 	  <div class="card">
 		<img src="images/difference.jpeg" alt="Sustainability Through Data" class="card-image">
 		<h4>Sustainability Through Data</h4>
-		<p>What excites me most is using data science to make a positive impact.
-		Good data analysis can help evaluate soil health and understand weather and climate 
-		patterns to transform raw data into tools for smarter environmental choices.</p>
+		<p> I use data science as a tool to explore opportunities for positive change. When applied thoughtfully, 
+			data can make a meaningful difference across multiple issues and domains.</p>
 	  </div>
 	</section>
 
     <!-- Resume -->
-    <h3 id="resume">Resume</h3>
+    <h3 id="resume", style="font-family: 'Press Start 2P', system-ui; font-size: 24px;">RESUME</h3>
     <section class="card">
       <!-- Education -->
       <div class="resume-section">
@@ -628,7 +651,7 @@
 
     <!-- Projects -->
     <section id="projects">
-      <h3>Projects</h3>
+      <h3 style="font-family: 'Press Start 2P', system-ui; font-size: 24px;">PROJECTS</h3>
       <div class="projects">
         <div class="project" onclick="expandProject(1)">
           <h4>Network Role Discovery and Node Importance</h4>
